@@ -1,4 +1,4 @@
-#Data Analyst Portfolio Project: Customer Segmentation & Clustering
+## Project: Customer Segmentation & Clustering
 ## Project Overview
 
 This project focuses on customer segmentation of mall customers using unsupervised machine learning techniques, specifically K-Means clustering. The main goal is to help a marketing team better understand their target audience and design effective marketing strategies.
