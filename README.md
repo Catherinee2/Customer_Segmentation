@@ -42,7 +42,7 @@ The objective is to divide the mall’s customer base into approachable segments
 
 ## Dataset Description
 
-The dataset used was gotten from **[Kaggle](**[Kaggle](https://www.kaggle.com/datasets/your-dataset-link)**)** .It contains 200 mall customers, with the following attributes:
+The dataset used was gotten from (**[Kaggle](https://www.kaggle.com/datasets/your-dataset-link)**)** .It contains 200 mall customers, with the following attributes:
 
 1. CustomerID – unique ID
 
